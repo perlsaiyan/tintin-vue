@@ -1,0 +1,8 @@
+#class port kill
+#class port open
+
+#run socket {websocat ws://127.0.0.1:9595/}
+
+
+#class port close
+#nop -- vim: syntax=tt
