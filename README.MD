@@ -1,5 +1,9 @@
 Vuetify visualizations in Tintin++
 
+![Use of Linear Progress Bar](screenshots/linear-progress.gif)
+
+# Instructions #
+
 You'll need the websocat utility (https://github.com/vi/websocat) with the
 binary somewhere in your path.
 
